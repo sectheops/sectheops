@@ -6,9 +6,9 @@
 <br><br> 
 
 # <img src="https://image.spreadshirtmedia.com/image-server/v1/products/T1459A839PA3861PT28D1046488922W10000H9880/views/1,width=550,height=550,appearanceId=839,backgroundColor=F2F2F2/think-before-you-click-cyber-security-sticker.jpg" width="70"> **About Us**
-- SecTheOps is a  digital vendor providing continuously integrated security and vulnerability management through the use of DevSecOps framework.
-- We use well-tested software to synthesize a vulnerability management procedures along with Compliance As Code, for a variety of systems. 
-- This GitHub is a showcase for all the pipelines we have built for multiple open-source software that are integrated with their development process, running each time a new commit is made to their repository to look for any (known) vulnerability that may have been introduced due to the update.
+- SecTheOps is a productized service centered around DevSecOps providing.
+- We use well-tested open-source software to synthesize vulnerability management procedures for various systems. 
+- This GitHub is a showcase for some of the ways we find vulnerabilities using the new security engineering practice
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -32,6 +32,4 @@
 
 <br>
 <br><br>
-
-# **Contact Us** <img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/handshake.gif" width="120">
 
